@@ -1,5 +1,5 @@
 <?php
 
-echo 'contact new  contact';
-echo 'something';
+echo 'contact new  contact master';
+echo 'something master';
 ?>
