@@ -1,2 +1,0 @@
-# phpgit
-Git tutorial
